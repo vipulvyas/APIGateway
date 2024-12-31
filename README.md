@@ -58,3 +58,18 @@ This project implements a high-performance API Gateway designed to handle HTTP r
 - Include unit tests to ensure key functionalities.
 - Provide flexibility to add or modify rate limiting and caching policies.
 - Allow configuration of rate limits and cache expiry times.
+
+## Installation
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+2. Run the project:
+   ```bash
+   npm start
+   ```
+
+3. Test the project:
+   ```bash
+   npm test
